@@ -17,11 +17,11 @@ for the product category of shirts
 Get the **latest version of Python** at https://www.python.org/downloads/ 
 
 ### 2) Install pandas
-Installing from PyPI
+Installing from PyPI<br>
 pip install pandas
 
 ### 3) Install Beautiful Soup
-Installing from PyPI
+Installing from PyPI<br>
 pip install beautifulsoup4
 
 #### For additional information look at
